@@ -9,7 +9,7 @@ from google.cloud import storage
 
 def upload_csv_to_bucket(data):
     # Set your bucket name
-    bucket_name = 'tickbytick'
+    bucket_name = 'tickbytick1'
     
     # Create a CSV file in memory
     csv_file_name = 'data.csv'
